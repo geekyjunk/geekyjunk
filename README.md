@@ -73,5 +73,5 @@
 
 - 🐦 Twitter: https://twitter.com/geekyjunk  
 - 💼 LinkedIn: https://www.linkedin.com/in/naman360/  
-- ✉️ Email: naman@geekyjunk.in
+- ✉️ Email: naman.works@outlook.com
 
