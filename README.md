@@ -26,9 +26,9 @@
 ## 🧑‍💻 About Me
 
 - 🚀 Software Engineer at **Stadium**
-- 💻 Frontend-focused (React, Next.js)
+- 💻 Full Stack Engineer (Frontend Heavy)
 - 🏗 Currently learning **Backend Development**
-- 🔥 Building: **Pyx**
+- 🔥 Building: **[Stitchr](https://github.com/geekyjunk/stitchr)**
 - 🧠 Building scalable & clean UI systems
 
 ---
