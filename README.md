@@ -30,7 +30,7 @@
 - 🏗 Currently learning **Backend Development**
 - 🔥 Building: **[Stitchr](https://github.com/geekyjunk/stitchr)**
 - 🧠 Building scalable & clean UI systems
-- 
+
 
 ---
 
