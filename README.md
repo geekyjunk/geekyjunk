@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Software Engineer at **Stadium**
+- 🚀 Software Engineer at **[Stadium](https://www.linkedin.com/company/bystadium/)**
 - 💻 Full Stack Engineer (Frontend Heavy)
 - 🏗 Currently learning **Backend Development**
 - 🔥 Building: **[Stitchr](https://github.com/geekyjunk/stitchr)**
